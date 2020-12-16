@@ -1,0 +1,9 @@
+My contribution to our project which is an Augmented Reality application for android platform is given in the following:
+
+First when we chose this project , we do not know how to do that ,then after some time we research in internet and many other sources we final decide to do in unity and android .
+
+My contribution of this project is how use this project in android studio (java) ,how we implement this project as a android app . one of my group mate doing the design part and i was do the  java part of the android app . After when i finish this there was some bug off this android app.I try to solve it but it takes much difficult to solve this problem . Finally i decode the app and uplaod in bit bucket.
+
+My experience and challenge:
+
+when i do this project in android , i face some problem about configuration of my laptop . This project is about a 3d model so that it require a high configuration but my laptop is not at that high configuration. so , when i do this project i face much problem to do that.

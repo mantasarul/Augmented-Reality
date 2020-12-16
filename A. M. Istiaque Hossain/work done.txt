@@ -1,0 +1,1 @@
+I have done the AugmentedReality design(android) part .I have have also worked in unity asset.I am troublshooting our project to fix bugs.

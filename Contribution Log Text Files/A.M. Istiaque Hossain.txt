@@ -1,0 +1,7 @@
+Hello,
+I am A.M. Istiaque Hossain and my main contribution in this project is to design our 3d Augmented Reality model. Though I have also little contribution in trouble 
+shooting since at starting we had many bugs in our project but now it’s almost ready. In making this project we have taken some realistic thing in our mind like at 
+first we wanted to use 100tk note but then I realized that it would be better to test and to use for others if we use 10Tk note. So I proposed to do that. Unity asset
+is also my concern to design this project.
+Git and Bitbucket was totally new to me so I needed a lots of time to understand it as well as to upload files in bitbucket and to synchronize with my other group
+mates. Now finally we have done our project and it is really interesting and helpful for our future work. 
